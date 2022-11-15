@@ -1,2 +1,2 @@
 # fart-to-the-past
-for GAME-OFF-2022
+I made this in scratch, soooooo abunch of stuff in here is randomly named because of that and you won't get good stuff and sorce code
